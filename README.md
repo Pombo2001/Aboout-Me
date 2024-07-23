@@ -1,1 +1,2 @@
 # Aboout-Me
+I hold a degree in Computer Engineering with a strong background in networks and information systems. I spent two years studying Networks and Information Systems in a higher technical course (CTeSP). I completed the 12th grade in the Professional Course of Programming and Information Systems Management. Currently, I am pursuing a master's degree in Artificial Intelligence at ISCTE. I am passionate about technology and always strive to innovate and enhance my skills.
